@@ -1,0 +1,13 @@
+apples = 12
+oranges = 5
+fruits = (apples+oranges)
+print(fruits)
+
+message = "I like to eat "+str(fruits)+" fruits a day"
+print(message)
+
+apples = 3
+a_text = " fruits"
+
+resultat = str(apples) + a_text 
+print(resultat)

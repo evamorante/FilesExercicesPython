@@ -15,6 +15,6 @@ def play():
 
     print ("Try again !")
 
-    play()
+play()
 
     #doesn't work ?!!!

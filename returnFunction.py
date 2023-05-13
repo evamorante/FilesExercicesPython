@@ -3,6 +3,8 @@ def add(n1,n2):
     return result
 total = add(5,8)
 print(total)
+
+
 def greet(name, weather):
     message = "Hi "+name+".It is a "+weather+" day."
     return message
@@ -13,6 +15,8 @@ print(greetings)
 print(greet("Sasha","rainy"))
 print(greet("Thomas","cloudy"))
 print(greetings+" Better well dress in")
+
+
 #exercise with using a return function rather than displaying the result 
 #from within the functions 
 #one line empty separating the first exercise to the "return"exercise
